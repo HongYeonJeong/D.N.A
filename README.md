@@ -4,7 +4,7 @@
 ## Meachine Learning Study
 동아리 내에서 머신 러닝에 대한 스터디에서 학습한 내용 기록
 
-[책 제목] 머신러닝 교과서 with 파이썬, 사이킷런, 텐서플로
+[책제목] 머신러닝 교과서 with 파이썬, 사이킷런, 텐서플로
 
 [지은이] 세바스찬 라시카, 박히드 미자리리
 
@@ -20,3 +20,14 @@
 [분석 기법] LSTM with Python
 
 [출처] https://dacon.io/competitions/official/235680/overview/description
+
+## Spark Study
+동아리 내 Spark에 대한 개인적인 그룹 스터디를 운영해 학습한 내용 기록
+
+[책제목] Spark The Definitive Guide (스파크 완벽 가이드)
+
+[지은이] 빌 체임버스, 마테이 자하리아
+
+[옮긴이] 우성한, 이영호, 강재원
+
+[출판사] 한및미디어
