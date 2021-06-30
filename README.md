@@ -1,7 +1,7 @@
 # D.N.A_Data.and.Analytics
 데이터 분석 동아리(D.N.A) 내에서의 활동 내용 기록
 
-[활동내용 기록] https://cafe.naver.com/kyonggidna?iframe_url=/MyCafeIntro.nhn%3Fclubid=30158586
+[동아리 사이트] https://cafe.naver.com/kyonggidna?iframe_url=/MyCafeIntro.nhn%3Fclubid=30158586
 
 ## Meachine Learning Study
 동아리 내에서 머신 러닝에 대한 스터디에서 학습한 내용 기록
