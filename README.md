@@ -14,15 +14,6 @@
 
 [출판사] 길벗
 
-## Project1. 태양광 발전량 예측
-동아리내에서 진행된 첫 번째 프로젝트
-
-[주제] 기상 데이터와 과거 발전량 데이터를 활용하여 시간대별 태양광 발전량 예측
-
-[분석 기법] LSTM with Python
-
-[출처] https://dacon.io/competitions/official/235680/overview/description
-
 ## Spark Study
 동아리 내 Spark에 대한 개인적인 그룹 스터디를 운영해 학습한 내용 기록
 
@@ -33,3 +24,19 @@
 [옮긴이] 우성한, 이영호, 강재원
 
 [출판사] 한및미디어
+
+## Project1. 태양광 발전량 예측 (DACON)
+2021년 첫 번째 프로젝트
+
+[주제] 기상 데이터와 과거 발전량 데이터를 활용하여 시간대별 태양광 발전량 예측
+
+[분석 기법] LSTM with Python
+
+[출처] https://dacon.io/competitions/official/235680/overview/description
+
+## Project2. Amazon Top 50 Bestselling Books 2009-2019 (Kaggle)
+2021년 두 번째 프로젝트
+
+[분석 기법] 시각화, Ridge, CNN with Python
+
+[출처] https://www.kaggle.com/sootersaalu/amazon-top-50-bestselling-books-2009-2019
